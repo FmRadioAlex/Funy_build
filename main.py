@@ -1,3 +1,1 @@
-print('Hello World')
-
-print("Hello Git")
+print((3+2 > 3) == True)
